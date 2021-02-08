@@ -12,11 +12,11 @@ This project aims at, given a set of potential locations, predicting the custome
 
 ## Key Approach
 
-- Segment the targeted area into sub-area
-- Retrieve and organize relevent information for each sub-area
-- Explore coffee shops through clustering
-- Implement supervised learning algorithms to predict customer rating
-- Perform prediction for the selected potential locations
+1. Segment the targeted area into sub-area
+2. Retrieve and organize relevent information for each sub-area
+3. Explore coffee shops through clustering
+4. Implement supervised learning algorithms to predict customer rating
+5. Perform prediction for the selected potential locations
 
 ## Things I learned from this project:
 
