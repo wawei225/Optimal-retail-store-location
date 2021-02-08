@@ -4,6 +4,8 @@ This is a project for Coursera Data Science Certificate, supported by IBM.
 
 This project aims at, given a set of potential locations, predicting the customer rating of a coffee shop in downtown Vancouver, Canada. 
 
+![alt text](https://github.com/wawei225/Optimal-retail-store-location/blob/master/Capture.PNG?raw=true)
+
 ## Data sources
 
 - **Foursquare**: venue information, customer rating, price tier, type of coffee shops, number of coffee shops in the designated area
